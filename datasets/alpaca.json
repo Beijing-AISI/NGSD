@@ -1,0 +1,13 @@
+[
+  {
+    "dataset": "helpful_base",
+    "instruction": "What are the names of some famous actors that started their careers on Broadway?",
+    "output": "Some famous actors that started their careers on Broadway include: \n1. Hugh Jackman \n2. Meryl Streep \n3. Denzel Washington \n4. Julia Roberts \n5. Christopher Walken \n6. Anthony Rapp \n7. Audra McDonald \n8. Nathan Lane \n9. Sarah Jessica Parker \n10. Lin-Manuel Miranda",
+    "generator": "text_davinci_003"
+  },
+  {
+    "dataset": "helpful_base",
+    "instruction": "How did US states get their names?",
+    "output": "US states get their names from a variety of sources, including Native American tribes, Spanish explorers, British colonists, and even presidents. For example, the state of Alabama was named after the Native American tribe that lived in the area, while the state of Florida gets its name from the Spanish explorer, Ponce de Leon, who explored the area in the 1500s. Other states are named after English kings (like Virginia, named after England's \"Virgin Queen,\" Queen Elizabeth I) or presidents (like Washington, named after George Washington).",
+    "generator": "text_davinci_003"
+  }]
